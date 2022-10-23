@@ -1,0 +1,4 @@
+<gen:userRequest xmlns:gen="http://www.baeldung.com/jaxb/gen">
+  <gen:id>3</gen:id>
+  <gen:name>string</gen:name>
+</gen:userRequest>
